@@ -1,7 +1,7 @@
 
 public class TurnOnInvoker extends OperationInvokerBase {
 
-	public TurnOnInvoker(CommandBase command) {
+	public TurnOnInvoker(TurnOnMachine command) {
 		super(command);
 	}
 

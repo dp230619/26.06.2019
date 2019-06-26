@@ -1,7 +1,7 @@
 
 public class VirusScanInvoker extends OperationInvokerBase{
 
-	public VirusScanInvoker(CommandBase command) {
+	public VirusScanInvoker(VirusScan command) {
 		super(command);
 	}
 
